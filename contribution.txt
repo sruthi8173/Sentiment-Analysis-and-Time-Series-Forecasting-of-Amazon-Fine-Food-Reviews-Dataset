@@ -1,0 +1,5 @@
+Contribution
+We have divided the project into 2 parts
+Part 1: Sentiment analysis was done by nthanik and vchitto
+Part 2: Time series was done by svenka15 
+Report and final analysis was done by nthanik 
